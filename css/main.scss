@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+nav {
+    width: 22%;
+    background: rgb(179,179,179);
+    height: 100vh;
+
+    ul {
+        margin: 0;
+        padding-top: 20px;
+        list-style-type: none;
+
+        li {
+            cursor: pointer;
+            font-size: 1.3em;
+            font-weight: bold;
+            text-transform: uppercase;
+            
+            svg {
+                width: 15% !important;
+            }
+
+            #search {
+                position: relative;
+                top: 12px;
+                margin-right: 10px;
+            }
+        }
+    }
+}

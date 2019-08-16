@@ -31,13 +31,10 @@ a:nth-child(1){
   transition:transform .4s .15s;
 }
 a:nth-child(1) div{
-  background-image:url('https://farm3.staticflickr.com/2827/10384422264_d9c7299146.jpg');
+  background-image:url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/67636580_3198966516781953_4748277158240059392_n.jpg');
 }
 a:nth-child(1):after{
     border-radius:20vmin 0 0 0;
-}
-a:nth-child(1):hover div{
-    transform:scale(1.1);
 }
 a:hover:nth-child(1){
     border-radius:5vmin 0vmin 0 0;
@@ -49,10 +46,7 @@ a:nth-child(2){
   transition:transform .4s .2s;
 }
 a:nth-child(2) div{
-  background-image:url('https://farm7.staticflickr.com/6083/6055581292_d94c2d90e3.jpg');
-}
-a:nth-child(2):hover div{
-    transform:scale(1.1);
+  background-image:url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/KakaoTalk_20190814_180132914.jpg');
 }
 a:hover:nth-child(2){
     border-radius:0vmin 5vmin 0 0;
@@ -64,10 +58,7 @@ a:nth-child(3){
   transition:transform .4s .25s;
 }
 a:nth-child(3) div{
-  background-image:url('https://farm7.staticflickr.com/6092/6227418584_d5883b0948.jpg');
-}
-a:nth-child(3):hover div{
-    transform:scale(1.1);
+  background-image:url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/IMG_4449.JPG');
 }
 a:hover:nth-child(3){
     border-radius:0vmin 0vmin 0vmin 5vmin;
@@ -79,27 +70,24 @@ a:nth-child(4){
   transition:transform .4s .3s;
 }
 a:nth-child(4) div{
-  background-image: url('https://farm8.staticflickr.com/7187/6895047173_d4b1a0d798.jpg');
-}
-a:nth-child(4):hover div{
-    transform:scale(1.1);
+  background-image: url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/IMG_4226.JPG');
 }
 a:hover:nth-child(4){
     border-radius:0vmin 0vmin 5vmin 0vmin;
 }
 a:nth-child(5){
-  width:55%;height:55%;
-  left:22.5%; top:25%;
-  border-radius:50vmin;
-  box-shadow:0 0 0 3vmin black;
-  transition:transform .4s .3s;
+    width:55%;height:55%;
+    left:22.5%; top:25%;
+    border-radius:50vmin;
+    box-shadow:0 0 0 3vmin black;
+    transition:transform .4s .3s;
 }
 a:nth-child(5) div{
-  background-image: url('https://farm4.staticflickr.com/3766/12953056854_b8cdf14f21.jpg');
+    background-image: url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/IMG_6391.JPG');
 }
 
 a:nth-child(5):hover div{
-    transform:scale(1.1);
+    background-image: url('https://raw.githubusercontent.com/yeseul-heo/yeseul-heo.github.io/master/img/index/IMG_6391.JPG');
 }
 span:hover + .wrap a, .wrap:hover a{
     transform:scale(1.1) translatez(0px);

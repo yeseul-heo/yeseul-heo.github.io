@@ -33,7 +33,7 @@
       }
   
       for (let i = 0; i < el.length; i++) {
-        el[i].style.height = `${counter-5}px`;
+        el[i].style.height = `${counter-10}px`;
       }
     }
   
